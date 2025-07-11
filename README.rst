@@ -17,6 +17,8 @@ packages used in the field. This repository contains the core library.
 * `Astropy users mailing list <https://mail.python.org/mailman/listinfo/astropy>`_
 * `Astropy developers mailing list <https://groups.google.com/g/astropy-dev>`_
 
+Important: Repo may contain some alternative implementations.
+
 Installation
 ============
 
